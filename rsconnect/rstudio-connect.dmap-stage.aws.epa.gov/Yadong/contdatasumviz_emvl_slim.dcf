@@ -1,0 +1,13 @@
+name: contdatasumviz_emvl_slim
+title: ContDataSumViz_EMVL_slim
+username: Yadong
+account: Yadong
+server: rstudio-connect.dmap-stage.aws.epa.gov
+hostUrl: https://rstudio-connect.dmap-stage.aws.epa.gov/__api__
+appId: 43
+bundleId: 250
+url: https://rstudio-connect.dmap-stage.aws.epa.gov/content/04d7dd3d-48f7-4b10-bb7d-607c258785dc/
+when: 1664475988.6284
+lastSyncTime: 1664475988.6284
+asMultiple: FALSE
+asStatic: FALSE
